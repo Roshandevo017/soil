@@ -1,0 +1,22 @@
+{
+  "name": "SoilPredict - ML-Based Soil Productivity Prediction",
+  "short_name": "SoilPredict",
+  "description": "Machine Learning and Clustering Based Soil Productivity Prediction System",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#1a1a1a",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "192x192",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "/icon.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml"
+    }
+  ]
+}
