@@ -1,0 +1,33 @@
+{
+  "include": [
+    "."
+  ],
+  "exclude": [
+    "**/__pycache__",
+    "**/node_modules",
+    "venv/Lib",
+    "venv/Scripts",
+    "venv/Include"
+  ],
+  "venvPath": ".",
+  "venv": "venv",
+  "pythonVersion": "3.8",
+  "pythonPlatform": "Windows",
+  "typeCheckingMode": "basic",
+  "reportMissingImports": "warning",
+  "reportMissingTypeStubs": false,
+  "reportUnusedImport": false,
+  "reportUnusedClass": false,
+  "reportUnusedFunction": false,
+  "reportUnusedVariable": false,
+  "executionEnvironments": [
+    {
+      "root": ".",
+      "pythonVersion": "3.8",
+      "pythonPlatform": "Windows",
+      "extraPaths": [
+        "venv/Lib/site-packages"
+      ]
+    }
+  ]
+}
